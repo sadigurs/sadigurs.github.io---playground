@@ -41,7 +41,13 @@ My Email: [sadigurs@post.bgu.ac.il](mailto:sadigurs@post.bgu.ac.il)
 - Spring 2016 - [Discrete Mathematics](https://sites.google.com/site/discmathbgu/)
 
 ## Community
-
+I served has a reviewer at the following conferences:
+- NeurIPS 2021
+- ICML 2021
+- AISTATS 2021
+- NeurIPS 2020
+- ICML 2020
+- NeurIPS 2019
 
 ## Contact
 Ben-Gurion University of the Negev  
