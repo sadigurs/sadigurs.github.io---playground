@@ -13,7 +13,7 @@
 - Fall 2018-2019 - Introduction to Logic and Set Theory
 - Spring 2017 - [Discrete Structures and Combinatorics](https://www.cs.bgu.ac.il/~dsc172/Main)
 - Fall 2016-2017 - [Automata and Formal Languages](https://www.cs.bgu.ac.il/~auto171/Main)
-- 
+
 ### Grader
 - Fall 2020-2021 - [Adaptive Data Analysis](https://www.cs.bgu.ac.il/~ada211/Main)
 - Fall 2017-2018 - [Introduction to learning and analysis of big data](https://www.cs.bgu.ac.il/~inabd181/Main)
