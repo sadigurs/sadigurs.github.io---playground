@@ -2,3 +2,5 @@ title: My Site
 description: 
 theme: jekyll-theme-minimal
 logo: /pics/pic3.jpg
+show_downloads: true
+is_user_page: true
