@@ -6,4 +6,4 @@ My main interests are: differential privacy, compression schemes and adaptive da
 Under the supervision of [Prof. Aryeh Kontorovich](https://www.cs.bgu.ac.il/~karyeh/) and [Dr. Uri Stemmer](https://www.uri.co.il/).  
 My Email: [sadigurs@post.bgu.ac.il](mailto:sadigurs@post.bgu.ac.il)
 
-[Publications](publications.md) || [Teaching](teaching.md) || [Community](community.md) || [Contact](contact.md)
+< [Publications](publications.md) > < [Teaching](teaching.md) > < [Community](community.md) > < [Contact](contact.md) >
