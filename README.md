@@ -1,5 +1,3 @@
-# Menachem (Meni) Sadigurschi
-
 I'm a PhD student at the [Computer Science department](http://in.bgu.ac.il/en/natural_science/cs/Pages/default.aspx) of the Ben-Gurion University.  
 Focusing on the theory of machine learning, privacy and statistics.  
 My main interests are: differential privacy, compression schemes and adaptive data analysis.  
