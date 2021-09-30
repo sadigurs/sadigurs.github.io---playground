@@ -6,3 +6,7 @@ Under the supervision of [Prof. Aryeh Kontorovich](https://www.cs.bgu.ac.il/~kar
 My Email: [sadigurs@post.bgu.ac.il](mailto:sadigurs@post.bgu.ac.il)
 
 ☕  [Publications](publications.md)  ☕  [Teaching](teaching.md)  ☕  [Community](community.md)  ☕  [Contact](contact.md)  ☕ 
+
+## Updates
+Our paper got accepted to NeurIPS 2021!
+Title: [On the Sample Complexity of Privately Learning Axis-Aligned Rectangles](https://arxiv.org/abs/2107.11526)
